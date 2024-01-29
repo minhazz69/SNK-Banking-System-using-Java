@@ -6,4 +6,4 @@ Functionalities-
 2. Sign up to the system
 3. Withdraw money
 4. Deposite money
-5. Transation information saved in Background
+5. Transation information saved in notepad
